@@ -1,5 +1,6 @@
 order,story_id,title,subtitle,byline,private,show_sections
 orden,id_historia,titulo,subtitulo,firma,privada,mostrar_secciones
-1,blank_template,replace me with your title,,,,
-2,plantilla_en_blanco,reemplázame con tu título,,,,
-3,example,example,in class telar,,,
+0,blank_template,replace me with your title,,,,
+1,plantilla_en_blanco,reemplázame con tu título,,,,
+2,example,example,in class telar,,,
+3,where-could-students-7w29,No Room To Learn,"Space, Stress, and Student Activism at UCSB in the 1990s",By: Juliana Ezzat,,
